@@ -9,7 +9,7 @@ TODO-list:
 
 
 REFERENCE:
-Day 1: Project Setup, Bootstrap Integration, and User Authentication
+Day 1: Project Setup, Tailwind Integration, and User Authentication
 
 Set up a new Rails project using the command: rails new your_project_name --database=postgresql
 Add necessary gems to the Gemfile:
