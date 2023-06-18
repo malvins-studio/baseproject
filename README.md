@@ -1,4 +1,4 @@
-# REFERENCE:
+# Initial Roadmap:
 ## [ok] Day 1: Project Setup, Tailwind Integration, and User Authentication
 - [ok] Set up a new Rails project using the command:
 	```
@@ -9,11 +9,11 @@
 - [ok] Tailwind (for frontend styling): bundle add tailwindcss-rails
 - [ok] Run bundle install to install the gems.
 - [ok] Generate a User model with Devise using the command: rails generate devise User
-- [:check:] Run database migrations: rails db:create && rails db:migrate
+- [ok] Run database migrations: rails db:create && rails db:migrate
 
 ## [ok] Day 2:
 - [ok] Create a test asserting Tailwind is installed and running. Make it pass.
-- - [ok] Integrate Tailwind by following the docs (https://tailwindcss.com/docs/guides/ruby-on-rails).
+-- [ok] Integrate Tailwind by following the docs (https://tailwindcss.com/docs/guides/ruby-on-rails).
 - [ok] Create a test asserting the existence of a Dashboard index page. Make it pass.
 
 ## Day 3: Dashboard or Overview with Bootstrap Styling
@@ -61,7 +61,8 @@
 
 
 Things you may want to cover:
-* Ruby version
+* Ruby version: 3.2.2
+* Rails version: 7.0.5
 * System dependencies
 * Configuration
 * Database creation
