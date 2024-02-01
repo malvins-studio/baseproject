@@ -1,5 +1,5 @@
 # Initial Roadmap:
-## [ok] Iteration #1: Project Setup, Tailwind Integration, and User Authentication
+## [ok] Iteration #1: Project Setup, Tailwind Installation, and User Authentication
 - [ok] Set up a new Rails project using the command:
 	```
 	rails new <your_project_name>
@@ -11,7 +11,7 @@
 - [ok] Generate a User model with Devise using the command: rails generate devise User
 - [ok] Run database migrations: rails db:create && rails db:migrate
 
-## [ok] Iteration #2:
+## [ok] Iteration #2: Tailwind Integration and Create Dashboard route
 - [ok] Create a test asserting Tailwind is installed and running. Make it pass.
   - [ok] Integrate Tailwind by following the docs (https://tailwindcss.com/docs/guides/ruby-on-rails).
   - [ok] Generate a Dashboard controller: rails generate controller Dashboard index
